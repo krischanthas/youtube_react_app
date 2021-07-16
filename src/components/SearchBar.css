@@ -1,0 +1,8 @@
+.searchButtonContainer {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.searchBtn {
+    margin-top: 7px;
+}
